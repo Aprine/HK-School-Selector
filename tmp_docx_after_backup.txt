@@ -1,0 +1,34 @@
+0: YAN ZIHAO
+1: Phone: (+852) 5572-7539 | Email: yanzihaohk@163.com|
+2: ADRESS: LOHAS PARK, LOHAS PARK NO.1 ROAD, LE PRIME, HONG KONG, CHINA
+3: EDUCATION EXPERIENCE
+4: Hong Kong Metropolitan University, Hong Kong, China 09/2023- present
+5: Bachelor of Computer Science
+6: • Language: Mandarin (native), Cantonese (non-native), English IELTS (6 (6) )
+7: • Relevant coursework: Mobile Application Programming , Software Project Management, Web Applications:Design And Development ,Machine Learning
+8: • Skills: MS office, Python, AI model, Flask web framework, numpy, HTML,CSS, R, Java, Windows, Linux, Shell Scripting, etc.
+10: RESEARCH EXPERIENCE
+11: Neuro-Engineering and Machine Learning Lab, Research Assistant    04/2026-present
+12: Deep Learning-Based Action Intent Recognition from Surface sEMG Signals
+13: • Content: Research Focus: Conducted interdisciplinary research at the intersection of neuroscience and machine learning, focusing on action-intent decoding from multi-channel surface electromyography (sEMG).
+15: Hongli HUANG - Hong Kong Metropolitan University   https://scholars.hkmu.edu.hk/en/persons/hongli-huang/
+18: PROJECT EXPERIENCE
+19: Smart-Canteen Ordering System | Full-Stack Architecture Refactoring and Development 11/2025 - 1/2026
+20: Project Overview:Refactored a course project from vanilla JavaScript single-file code into a TypeScript + MVC structure, separating routing, business logic, and configuration to improve code maintainability.
+21: Used Prisma ORM for type-safe database operations, reducing common runtime errors during development, and applied unique indexes to ensure data consistency.
+22: Built a role-based permission system (RBAC) supporting 4 user roles, implemented user registration, login, and logout flows, and secured passwords with bcryptjs hashing.
+23: Developed a multi-condition search and filter feature for dishes, supporting fuzzy search, category, price, and spiciness filtering; built responsive front-end pages for multi-device access.
+24: Added global error handling and input validation; deployed the whole project to Render for public access, ensuring stable and reliable service.
+26: Goofish AI Advisor  02/2026-03/2026
+27: Project Overview: Independently completed the entire system development process, encompassing product web scraping, data cleaning, statistical analysis, AI-powered intelligent pricing, and web visualization. Through anti-scraping optimization, intelligent data cleaning, and low-cost AI call design, data validity was improved by over 70%, and AI call costs were reduced by over 60%. The system supports web-based interaction and data export, delivering a practical secondhand pricing assistance solution.
+28: * **Anti-Crawler Development:** Implemented Xianyu (a Chinese online marketplace) product crawling based on Selenium, employing a dual-page-turning strategy (hiding the webdriver, simulating human login, and using a URL + input box) to overcome anti-crawler limitations, achieving a crawling accuracy of 90%+.
+29: * **Intelligent Data Cleaning:** Regular expression parsing of non-standard prices (e.g., "2k/¥899"), fuzzy title deduplication, and quartile filtering of abnormal prices improved effective data retention by 70%.
+30: * **Low-Cost AI Empowerment:** Integrated with the Tongyi Qianwen API, designed a caching mechanism + simplified Prompt + low-cost model (qwen-plus), reducing token consumption by 60%+.
+31: * **Flask Full-Stack Development:** Custom JSON serialization resolved NumPy type compatibility issues, enabling downloading of Chinese filenames, front-end visual interaction, and multi-browser compatibility.
+32: * **Engineering Assurance:** Improved exception handling for file corruption/API call failures, automatically calculating statistical indicators such as average/median prices, ensuring system stability.
+34: HK School Selector (Flutter + Node.js + Qwen API)
+35: Built a cross-platform Flutter app to aggregate and display Hong Kong school data, with dynamic search, district/type filters, sorting, and detail pages (address, phone, website, map launch).
+36: Implemented location-aware features using Geolocator, including nearest-school recommendations and distance-based ranking/sorting.
+37: Added account-based favorites with local persistence (SharedPreferences), plus robust API handling with timeout, endpoint fallback, caching, and school deduplication.
+38: Integrated an AI assistant for natural-language school queries; designed a token-saving chat flow and enforced local-data-first logic to reduce hallucinations for distance/school-info answers.
+39: Built and deployed a lightweight Node.js proxy service (Render) to securely call DashScope/Qwen models without exposing API keys in the client.

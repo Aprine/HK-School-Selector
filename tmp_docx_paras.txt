@@ -1,0 +1,33 @@
+0: YAN ZIHAO
+1: Phone: (+852) 5572-7539 | Email: yanzihaohk@163.com|
+2: ADRESS: LOHAS PARK, LOHAS PARK NO.1 ROAD, LE PRIME, HONG KONG, CHINA
+3: EDUCATION EXPERIENCE
+4: Hong Kong Metropolitan University, Hong Kong, China 09/2023- present
+5: Bachelor of Computer Science
+6: • Language: Mandarin (native), Cantonese (non-native), English IELTS (6 (6) )
+7: • Relevant coursework: Mobile Application Programming , Software Project Management, Web Applications:Design And Development ,Machine Learning
+8: • Skills: MS office, Python, AI model, Flask web framework, numpy, HTML,CSS, R, Java, Windows, Linux, Shell Scripting, etc.
+10: RESEARCH EXPERIENCE
+11: Guangdong Provincial Key Laboratory of Information Photonics Technology, Research Assistant 06/2024-present
+12: 3D Convolutional Neural Network-Based Spectral Unmixing for SERS Imaging
+13: • Content: We have designed a 3D self-encoder algorithm based on discrete cosine transform with spatio-temporal global
+14: attention mechanism which is designed for realizing a component decomposition unmixing algorithm for scanning Raman
+15: imaging of 2D materials MoS2/WSe2. We have compared traditional machine learning NMF non-negative matrix
+16: decomposition and K-hype kernel abundance estimation algorithm with traditional and deep learning algorithms to realize
+17: the reconstruction of the Raman scanning imaging on SOTA level.
+18: • Publish: Co-authored a manuscript (targeting IEEE T-IP, under review).
+19: • Achievement: This is supported by National Natural Science Foundation Project (500210181) with Dr. Ping Tang
+22: PROJECT EXPERIENCE
+23: Smart-Canteen Ordering System | Full-Stack Architecture Refactoring and Development 11/2025 - 1/2026
+24: Refactored a course project from vanilla JavaScript single-file code into a TypeScript + MVC structure, separating routing, business logic, and configuration to improve code maintainability.
+25: Used Prisma ORM for type-safe database operations, reducing common runtime errors during development, and applied unique indexes to ensure data consistency.
+26: Built a role-based permission system (RBAC) supporting 4 user roles, implemented user registration, login, and logout flows, and secured passwords with bcryptjs hashing.
+27: Developed a multi-condition search and filter feature for dishes, supporting fuzzy search, category, price, and spiciness filtering; built responsive front-end pages for multi-device access.
+28: Added global error handling and input validation; deployed the whole project to Render for public access, ensuring stable and reliable service.
+30: Goofish AI Advisor  02/2026-03/2026
+31: Project Overview: Independently completed the entire system development process, encompassing product web scraping, data cleaning, statistical analysis, AI-powered intelligent pricing, and web visualization. Through anti-scraping optimization, intelligent data cleaning, and low-cost AI call design, data validity was improved by over 70%, and AI call costs were reduced by over 60%. The system supports web-based interaction and data export, delivering a practical secondhand pricing assistance solution.
+32: * **Anti-Crawler Development:** Implemented Xianyu (a Chinese online marketplace) product crawling based on Selenium, employing a dual-page-turning strategy (hiding the webdriver, simulating human login, and using a URL + input box) to overcome anti-crawler limitations, achieving a crawling accuracy of 90%+.
+33: * **Intelligent Data Cleaning:** Regular expression parsing of non-standard prices (e.g., "2k/¥899"), fuzzy title deduplication, and quartile filtering of abnormal prices improved effective data retention by 70%.
+34: * **Low-Cost AI Empowerment:** Integrated with the Tongyi Qianwen API, designed a caching mechanism + simplified Prompt + low-cost model (qwen-plus), reducing token consumption by 60%+.
+35: * **Flask Full-Stack Development:** Custom JSON serialization resolved NumPy type compatibility issues, enabling downloading of Chinese filenames, front-end visual interaction, and multi-browser compatibility.
+36: * **Engineering Assurance:** Improved exception handling for file corruption/API call failures, automatically calculating statistical indicators such as average/median prices, ensuring system stability.
